@@ -26,6 +26,6 @@ This project is part of learning and practicing Git and GitHub. It covers the fu
    git add .
    git commit -m "Your commit message"
    git push origin main
-   GIT_SSH_COMMAND="ssh -i ~/.ssh/token" git push --set-upstream origin branch name
+ 4. GIT_SSH_COMMAND="ssh -i ~/.ssh/token" git push --set-upstream origin branch name
 ## Author
 - **Moshood Odutola Ezekiel** - [GitHub Profile](https://github.com/MoshTeach64)
